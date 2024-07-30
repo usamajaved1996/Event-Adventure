@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Events</string>
+    <string name="facebook_app_id">383509937500778</string>
+    <string name="fb_login_protocol_scheme">fb383509937500778</string>
+    <string name="facebook_client_token">57d26ea9b0abacb5be3399a47ddc7d91</string>
+</resources>
